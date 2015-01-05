@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="prologue">
-            <pb facs="tcp:021815_0000_0FB5AFB02E503380"/>
-            <pb facs="tcp:021815_0001_0FB5AFB1AD3EBBB0"/>
+            <pb facs="unknown:021815_0000_0FB5AFB02E503380"/>
+            <pb facs="unknown:021815_0001_0FB5AFB1AD3EBBB0"/>
             <head>PROLOGUE to the FATAL EF<g ref="char:EOLhyphen"/>FECTS of SEDUCTION.</head>
             <byline>Spoken by MARTIN HARMON.</byline>
             <l>TO tender ſympathy t' awake the ſoul,</l>
@@ -153,7 +153,7 @@
             <l>How ſtrict a guard the inclinations need,</l>
             <l>And what ſad ſcenes from raſhneſs may proceed.</l>
             <l>
-               <pb n="iv" facs="tcp:021815_0002_0FB5AFB5DE0B73B8"/>Critics be dumb; be wiſhes not applauſe.</l>
+               <pb n="iv" facs="unknown:021815_0002_0FB5AFB5DE0B73B8"/>Critics be dumb; be wiſhes not applauſe.</l>
             <l>He wrote but to ſubſerve fair virtues cauſe;</l>
             <l>But ſhould you ſnarl, he hopes the fair will <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -177,7 +177,8 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:021815_0003_0FB5AFB8740EC070" rendition="simple:additions"/>
+            <pb facs="unknown:021815_0003_0FB5AFB8740EC070"
+                rendition="simple:additions"/>
             <head>THE FATAL EFFECTS OF SEDUCTION.</head>
             <div n="1" type="act">
                <stage>
@@ -206,7 +207,7 @@
                <l>Or adding blackneſs to the infamy</l>
                <l>That ſtains the ſullied honor of thy name,</l>
                <l>
-                  <pb n="6" facs="tcp:021815_0004_0FB5AFB9F8E9CB30"/>And robs thee of thy peace:</l>
+                  <pb n="6" facs="unknown:021815_0004_0FB5AFB9F8E9CB30"/>And robs thee of thy peace:</l>
                <l>Oh! didſt thou know, that this, and this alone,</l>
                <l>Urg'd thine unhappy daughter, to conceal</l>
                <l>The name and character of her ſeducer,</l>
@@ -250,7 +251,7 @@
                   <l>Threat'ned to diſinherit and abandon</l>
                   <l>Thee and thy guiltleſs child to miſery</l>
                   <l>
-                     <pb n="7" facs="tcp:021815_0005_0FB5AFBB6D0669B8"/>In caſe thou didſt conceal it;</l>
+                     <pb n="7" facs="unknown:021815_0005_0FB5AFBB6D0669B8"/>In caſe thou didſt conceal it;</l>
                   <l>How wouldſt thou then conduct?</l>
                </sp>
                <sp>
@@ -290,7 +291,7 @@
                   <l>Oh Gracious God! oh virtue! virtue! virtue!</l>
                   <l>What are all earthly joys compar'd to thee!</l>
                   <l>
-                     <pb n="8" facs="tcp:021815_0006_0FB5AFC55698F150"/>Poſſeſt of thee the ſoul can find a palace</l>
+                     <pb n="8" facs="unknown:021815_0006_0FB5AFC55698F150"/>Poſſeſt of thee the ſoul can find a palace</l>
                   <l>In a dungeon. When thou art fled,</l>
                   <l>And leav'ſt the active conſcience</l>
                   <l>Not callous to contempt and infamy,</l>
@@ -337,7 +338,7 @@
                   <l>And let him know the author of his ſhame.</l>
                   <l>A few ſhort hours alone can intervene,</l>
                   <l>
-                     <pb n="9" facs="tcp:021815_0007_0FB5AFC77376B690"/>Between the preſent inſtant, and the time</l>
+                     <pb n="9" facs="unknown:021815_0007_0FB5AFC77376B690"/>Between the preſent inſtant, and the time</l>
                   <l>When ſhe muſt quit her father's houſe forever;</l>
                   <l>Unleſs this juſt command's complied with.</l>
                </sp>
@@ -399,7 +400,7 @@
                <stage>Exit <hi>Lyſander.</hi>
                </stage>
                <sp>
-                  <pb n="10" facs="tcp:021815_0008_0FB5AFC9036C5BA8"/>
+                  <pb n="10" facs="unknown:021815_0008_0FB5AFC9036C5BA8"/>
                   <speaker>Sophia.</speaker>
                   <l>Oh Sir! oh Father! if a diſhonored girl</l>
                   <l>May dare to call thee by that tender name</l>
@@ -454,7 +455,7 @@
                   <l>Why then, when death's become a virtue</l>
                   <l>When exiſtence is every hour embittered by</l>
                   <l>
-                     <pb n="11" facs="tcp:021815_0009_0FB5AFCBDEC2EC78"/>Reflection, why ſhould you now unite your force</l>
+                     <pb n="11" facs="unknown:021815_0009_0FB5AFCBDEC2EC78"/>Reflection, why ſhould you now unite your force</l>
                   <l>To ſhake the ſtedfaſt reſolution of my ſoul?</l>
                   <l>Your ſtrugglings now are vain,</l>
                   <l>As then they fail'd.</l>
@@ -502,7 +503,7 @@
                   <speaker>Roſanna</speaker>
                   <l>Much honored father bear with me a moment,</l>
                   <l>
-                     <pb n="12" facs="tcp:021815_0010_0FB5AFD4309A7588"/>Impute it not to diſreſpect, that I,</l>
+                     <pb n="12" facs="unknown:021815_0010_0FB5AFD4309A7588"/>Impute it not to diſreſpect, that I,</l>
                   <l>Sharing the griefs of my unhappy ſiſter;</l>
                   <l>Preſume to plead in her behalf, and urge,</l>
                   <l>The dreadful conſequences which I fear</l>
@@ -548,7 +549,7 @@
                         <desc>〈◊〉</desc>
                      </gap> we baniſh our offending child</l>
                   <l>
-                     <pb n="13" facs="tcp:021815_0011_0FB5AFD5D09210C0"/>To ſome obſcure retreat, there to remain</l>
+                     <pb n="13" facs="unknown:021815_0011_0FB5AFD5D09210C0"/>To ſome obſcure retreat, there to remain</l>
                   <l>In ſolitude, and ſuffer our diſpleaſure,</l>
                   <l>Till ſenſe of duty prompts her to obedience.</l>
                </sp>
@@ -589,7 +590,7 @@
                   <speaker>Severus.</speaker>
                   <l>What is it thus unreaſonably alarms</l>
                   <l>
-                     <pb n="14" facs="tcp:021815_0012_0FB5AFD7CAE23588"/>Am I a ruffian void of ſenſe and reaſon,</l>
+                     <pb n="14" facs="unknown:021815_0012_0FB5AFD7CAE23588"/>Am I a ruffian void of ſenſe and reaſon,</l>
                   <l>Am I a fool that ye addreſs me thus?</l>
                   <l>Is it ſo hard a thing that I requeſt,</l>
                   <l>As gives ye fear ſhe cannot live to do it?</l>
@@ -634,7 +635,7 @@
                   <l>Let all your wrath henceforth devolve on me,</l>
                   <l>I aſk no grace—Purſue me e'en to death,</l>
                   <l>
-                     <pb n="15" facs="tcp:021815_0013_0FB5AFD8AEF72D98"/>Spare but Sophia, and my expiring breath</l>
+                     <pb n="15" facs="unknown:021815_0013_0FB5AFD8AEF72D98"/>Spare but Sophia, and my expiring breath</l>
                   <l>Shall bleſs thee—My blood ſhall waſh away</l>
                   <l>The ſtain—I dare to ſay no more.</l>
                </sp>
@@ -674,7 +675,7 @@
                   <l>I'll take a dagger with me—If I fail,</l>
                   <l>To bring <hi>Severus</hi> to more eaſy terms,</l>
                   <l>
-                     <pb n="16" facs="tcp:021815_0014_0FB5AFDB23693B38"/>Then, as the laſt reſource—to ſave <hi>Sophia,</hi>
+                     <pb n="16" facs="unknown:021815_0014_0FB5AFDB23693B38"/>Then, as the laſt reſource—to ſave <hi>Sophia,</hi>
                   </l>
                   <l>I'll publicly avow my brutal guilt,</l>
                   <l>And plunge it in my breaſt.</l>
@@ -739,7 +740,7 @@
                   </l>
                </lg>
                <sp>
-                  <pb n="17" facs="tcp:021815_0015_0FB5AFE0B0DF8D08"/>
+                  <pb n="17" facs="unknown:021815_0015_0FB5AFE0B0DF8D08"/>
                   <speaker>SOPHIA.</speaker>
                   <l>"Muſic has charms to ſooth the ſavage breaſt<g ref="char:punc">▪</g>
                   </l>
@@ -779,7 +780,7 @@
                   <l>Highly valued ſiſter—Oh! may ſhe ſee,</l>
                   <l>Whole years of joy for every hour of grief;</l>
                   <l>
-                     <pb n="18" facs="tcp:021815_0016_0FB5AFE33319DD08"/>And to complete her bliſs<g ref="char:punc">▪</g> may my ſeducer,</l>
+                     <pb n="18" facs="unknown:021815_0016_0FB5AFE33319DD08"/>And to complete her bliſs<g ref="char:punc">▪</g> may my ſeducer,</l>
                   <l>Remain forever hid; May true repentance,</l>
                   <l>Reſtore his joys, and gain him peace with Heaven,</l>
                   <l>And may my ſufferings expiate the crime.</l>
@@ -815,7 +816,7 @@
                   <l>Have I requeſted your attendance,</l>
                   <l>At this time—You doubtleſs all have heard</l>
                   <l>
-                     <pb n="19" facs="tcp:021815_0017_0FB5AFE57A62A7C0"/>Of the miſconduct of my youngeſt daughter;</l>
+                     <pb n="19" facs="unknown:021815_0017_0FB5AFE57A62A7C0"/>Of the miſconduct of my youngeſt daughter;</l>
                   <l>A crime augmented by undutiful behaviour,</l>
                   <l>In wickedly perſiſting to conceal</l>
                   <l>The name of her ſeducer, For this crime</l>
@@ -857,7 +858,7 @@
                   <l>Guſh'd from her wounds, dropt on thy head,</l>
                   <l>Then mingled with <hi>Lyſander</hi>'s.</l>
                   <l>
-                     <pb n="20" facs="tcp:021815_0018_0FB5AFE71D1DCBE0"/>I ſcream'd with horror, ſhield me oh! my God!</l>
+                     <pb n="20" facs="unknown:021815_0018_0FB5AFE71D1DCBE0"/>I ſcream'd with horror, ſhield me oh! my God!</l>
                   <l>My huſband and my ſiſter both are ſlain,</l>
                   <l>And my too haſty father is the cauſe. <hi>Lyſander,</hi>
                   </l>
@@ -907,7 +908,7 @@
                   <speaker>Matilda.</speaker>
                   <l>Help! help! for God's ſake help!</l>
                   <l>
-                     <pb facs="tcp:021815_0019_0FB5AFE8B85831C0"/>Oh! my <hi>Sophia</hi>! oh fatal, fatal poiſon!</l>
+                     <pb facs="unknown:021815_0019_0FB5AFE8B85831C0"/>Oh! my <hi>Sophia</hi>! oh fatal, fatal poiſon!</l>
                   <l>Oh <hi>Severus</hi>! Raſh, raſh unhappy father,</l>
                   <l>Oh! <stage>Matilda ſwoons.</stage>
                   </l>
@@ -969,7 +970,7 @@
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:021815_0020_0FB5AFF02BEAB4D0"/>
+            <pb facs="unknown:021815_0020_0FB5AFF02BEAB4D0"/>
             <head>EPILOGUE.</head>
             <byline>Spoken by <hi>WILLIAM GRISWOLD,</hi> in his female dreſs.</byline>
             <l>
